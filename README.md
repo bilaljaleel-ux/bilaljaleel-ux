@@ -20,7 +20,7 @@ Logistic Regression classifier predicting telecom churn — 82% accuracy, with t
 **[Customer Lifetime Value (CLV) Prediction](https://github.com/bilaljaleel-ux/customer-lifetime-value-clv)**
 RFM feature engineering + Linear Regression vs Random Forest comparison to predict CLV and segment customers into value tiers via K-Means.
 
-**[Time Series Forecasting]([https://github.com/bilaljaleel-ux/time-series-forecasting](https://github.com/bilaljaleel-ux/Time-Series-Forecasting-Analysis)** 
+**Time Series Forecasting (https://github.com/bilaljaleel-ux/Time-Series-Forecasting-Analysis)**
 ARIMA-based forecasting with stationarity testing, ACF/PACF analysis, and residual diagnostics.
 
 ---
